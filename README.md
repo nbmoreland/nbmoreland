@@ -1,4 +1,4 @@
-###✨ Pursuing a Bachelor's degree in Computer Science from UTA! ✨
+✨ Pursuing a Bachelor's degree in Computer Science from UTA! ✨
 
 <!--
 **nicholasmoreland/nicholasmoreland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
